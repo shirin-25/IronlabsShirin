@@ -6,6 +6,7 @@ Install MySQL/Postgresql on your computer.
 Create a database
 Upload the file as a new table of your database
 
+≈
 Use the *data* table to query the data about Apple Store Apps and answer the following questions: 
 
 **1. What are the different genres?

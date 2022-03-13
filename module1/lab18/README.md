@@ -6,10 +6,10 @@ Install MySQL/Postgresql on your computer.
 Create a database
 Upload the file as a new table of your database
 
-≈
 Use the *data* table to query the data about Apple Store Apps and answer the following questions: 
 
 **1. What are the different genres?
+
 'Book'
 'Business'
 'Education'
@@ -49,6 +49,7 @@ the genre with most apps is 'Games' with 169
 1 - 'Medical'
 
 **5. Find the top 10 apps most rated?
+
 '8717381','Games'
 '5566328','Social Networking'
 '1994297','Music'
@@ -63,6 +64,7 @@ the genre with most apps is 'Games' with 169
 
 
 **6. Find the top 10 apps best rated by users.
+
 '5','J&J Official 7 Minute Workout'
 '5','Fragment\'s Note'
 '5','Dragon Island Blue'
@@ -77,13 +79,23 @@ the genre with most apps is 'Games' with 169
 
 **7. Take a look at the data you retrieved in question 5. Give some insights.**
 
+if someone wants to launch a business, according to the analysis it is better to launch an app either in games, or social network or music category. 
+
 **8. Take a look at the data you retrieved in question 6. Give some insights.**
+it shows that all top apps have the maximum possible rating by users. One "fitness" oriented app has more chances to well rated by users.
 
 **9. Now compare the data from questions 5 and 6. What do you see?**
+"Health and fitness" catergory is number 10 and not 1 but has more chances to be well rated by users.
 
 **10. How could you take the top 3 regarding both user ratings and number of votes?**
+'5','Plants vs. Zombies','426463'
+'5','Domino\'s Pizza USA','258624'
+'5','Plants vs. Zombies HD','163598'
+
 
 **11. Do people care about the price of an app?** Do some queries, comment why are you doing them and the results you retrieve. What is your conclusion?
+For example: 
+No, users they rated the app for 773 votings and the app cost around $250. 
 
 
 ## Deliverables 
